@@ -1,0 +1,8 @@
+.plusButton {
+	position: fixed;
+	border-radius: 10px;
+	bottom: 20px; /* Adjust as needed */
+	right: 20px; /* Adjust as needed */
+	z-index: 999; /* Adjust as needed */
+	font-size: 1.2rem;
+}
